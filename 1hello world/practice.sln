@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7选择语句", "..\7选择
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8循环语句", "..\8循环语句\8循环语句.vcxproj", "{612AA50E-25CB-4E90-8372-6C15BFE825BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9函数", "..\9函数\9函数.vcxproj", "{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{612AA50E-25CB-4E90-8372-6C15BFE825BF}.Release|x64.Build.0 = Release|x64
 		{612AA50E-25CB-4E90-8372-6C15BFE825BF}.Release|x86.ActiveCfg = Release|Win32
 		{612AA50E-25CB-4E90-8372-6C15BFE825BF}.Release|x86.Build.0 = Release|Win32
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Debug|x64.ActiveCfg = Debug|x64
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Debug|x64.Build.0 = Debug|x64
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Debug|x86.Build.0 = Debug|Win32
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Release|x64.ActiveCfg = Release|x64
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Release|x64.Build.0 = Release|x64
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Release|x86.ActiveCfg = Release|Win32
+		{CBF9B1D6-F5EB-4D99-9327-FCB6B39BF18E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
