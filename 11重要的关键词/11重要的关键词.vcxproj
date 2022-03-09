@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cbf9b1d6-f5eb-4d99-9327-fcb6b39bf18e}</ProjectGuid>
-    <RootNamespace>My9函数</RootNamespace>
+    <ProjectGuid>{d2511ec0-6b54-4e9f-ac57-f3a6ab12483b}</ProjectGuid>
+    <RootNamespace>My11重要的关键词</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>9函数</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10_3_8函数.cpp" />
+    <ClCompile Include="12_3_9关键词typedef .cpp" />
+    <ClCompile Include="13_3_9关键字 static .cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
