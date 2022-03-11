@@ -18,5 +18,8 @@
     <ClCompile Include="15_3_10 指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="16_3_11指针变量的大小 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

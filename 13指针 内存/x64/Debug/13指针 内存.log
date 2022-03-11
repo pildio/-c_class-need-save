@@ -1,0 +1,12 @@
+﻿  15_3_10 指针.cpp
+  16_3_11指针变量的大小 .cpp
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(8,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(8,12): message : 请考虑在格式字符串中使用“%zd”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(9,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(9,12): message : 请考虑在格式字符串中使用“%zd”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(10,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(10,12): message : 请考虑在格式字符串中使用“%zd”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(11,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\c_class-need-save\13指针 内存\16_3_11指针变量的大小 .cpp(11,12): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  13指针 内存.vcxproj -> F:\c_class-need-save\1hello world\x64\Debug\13指针 内存.exe

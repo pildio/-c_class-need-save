@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12常量和宏", "..\12常�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13指针 内存", "..\13指针 内存\13指针 内存.vcxproj", "{F8173557-0D61-4791-A51F-977463CCD4E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14 结构体", "..\14 结构体\14 结构体.vcxproj", "{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{F8173557-0D61-4791-A51F-977463CCD4E9}.Release|x64.Build.0 = Release|x64
 		{F8173557-0D61-4791-A51F-977463CCD4E9}.Release|x86.ActiveCfg = Release|Win32
 		{F8173557-0D61-4791-A51F-977463CCD4E9}.Release|x86.Build.0 = Release|Win32
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Debug|x64.ActiveCfg = Debug|x64
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Debug|x64.Build.0 = Debug|x64
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Debug|x86.Build.0 = Debug|Win32
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Release|x64.ActiveCfg = Release|x64
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Release|x64.Build.0 = Release|x64
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Release|x86.ActiveCfg = Release|Win32
+		{F4C09D94-67BE-4F96-96A5-B6EB60FA3E07}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
