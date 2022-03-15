@@ -1,7 +1,5 @@
 ﻿D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(3变量、常量.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   3_3_5变量.cpp
-F:\c++\3. 变量、常量\3_3_5变量.cpp(10,23): warning C4305: “初始化”: 从“double”到“float”截断
-F:\c++\3. 变量、常量\3_3_5变量.cpp(11,19): warning C4305: “初始化”: 从“int”到“char”截断
-F:\c++\3. 变量、常量\3_3_5变量.cpp(11,14): warning C4309: “初始化”: 截断常量值
-F:\c++\3. 变量、常量\3_3_5变量.cpp(15,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
-  3. 变量、常量.vcxproj -> F:\c++\practice\Debug\3变量.exe
+F:\c_class-need-save\初学c\3. 变量\3_3_5变量.cpp(11,23): warning C4305: “初始化”: 从“double”到“float”截断
+  LINK : 没有找到 F:\c_class-need-save\初学c\1hello world\Debug\3变量.exe 或上一个增量链接没有生成它；正在执行完全链接
+  3. 变量、常量.vcxproj -> F:\c_class-need-save\初学c\1hello world\Debug\3变量.exe

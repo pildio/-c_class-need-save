@@ -1,2 +1,3 @@
-﻿  19_3_13 if else 练习.cpp
-  15 分支语句和循环语句.vcxproj -> F:\c_class-need-save\初学c\1hello world\Debug\15 分支语句和循环语句.exe
+﻿D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(15 分支语句和循环语句.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  18_3_13 简单循环语句.cpp
+  15 分支语句和循环语句.vcxproj -> F:\c_class-need-save\初学c\1hello world\Debug\15 分支语句if.exe
