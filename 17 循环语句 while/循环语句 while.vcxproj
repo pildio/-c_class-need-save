@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e26b17e5-4bd3-417c-9d08-0a3e7e417153}</ProjectGuid>
-    <RootNamespace>My16分支语句Switch</RootNamespace>
+    <ProjectGuid>{6b712f49-8206-4213-835d-f77828c97cc9}</ProjectGuid>
+    <RootNamespace>循环语句while</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>17 循环语句 while</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,8 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="20_3_14 switch语句.cpp" />
-    <ClCompile Include="21_3_15 Switch语句练习.cpp" />
+    <ClCompile Include="22_3_16 while语句 .cpp" />
+    <ClCompile Include="23_3_17 while语句练习.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

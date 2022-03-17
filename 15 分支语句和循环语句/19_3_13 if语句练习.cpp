@@ -47,7 +47,7 @@
 
 ////3.输出1-100之间的奇数
 
-//#include<stdio.h>
+#include<stdio.h>
 //int  main()
 //{
 //	int i = 0;

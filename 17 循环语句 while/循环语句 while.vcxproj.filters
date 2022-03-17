@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20_3_14 switch语句.cpp">
+    <ClCompile Include="22_3_16 while语句 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="21_3_15 Switch语句练习.cpp">
+    <ClCompile Include="23_3_17 while语句练习.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
